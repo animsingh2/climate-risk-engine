@@ -1,6 +1,6 @@
 # Climate Risk Engine
 
-A Python-based financial risk scoring engine that models how physical and transition climate risks flow through to credit metrics — PD, LGD, and EAD — and computes Climate VaR across multiple scenarios.
+A Python-based financial risk scoring engine that models how physical and transition climate risks flow through to credit metrics (PD, LGD, EAD) and computes Climate VaR across multiple scenarios.
 
 ## What it does
 
