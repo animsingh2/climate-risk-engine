@@ -1,0 +1,6 @@
+holding_id,company_name,asset_type,sector,country,exposure_usd,credit_rating,lgd_baseline,ebitda_margin,emissions_intensity,annual_revenue_usd_m,latitude,longitude,region
+H001,Apex Energy Corp,Corporate,Energy,US,50000000,BBB,0.45,0.18,850,2200,29.76,-95.37,
+H002,GreenTech Industrials,Corporate,Industrials,DE,30000000,A,0.4,0.22,120,800,52.52,13.4,
+H003,Pacific Real Estate Fund,Real Asset,Real Estate,AU,80000000,BB,0.55,0.35,45,150,-33.87,151.21,
+H004,Volta Utilities SA,Corporate,Utilities,FR,25000000,A,0.38,0.28,430,1100,48.85,2.35,
+H005,Atlantic Shipping Ltd,Corporate,Industrials,GB,15000000,B,0.6,0.1,1200,500,51.51,-0.13,
