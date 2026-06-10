@@ -30,6 +30,8 @@ Aligned with TCFD recommendations and NGFS Phase 4 guidance. The transition risk
 
 Also supports IPCC AR6 SSPs (SSP1-2.6, SSP2-4.5, SSP5-8.5) and IEA WEO 2023 (NZE, APS, STEPS).
 
+Climate VaR is computed here as a portfolio-level credit risk metric — expected loss at a given confidence interval — consistent with banking and UNEP FI frameworks. This is distinct from equity-valuation-based Climate VaR approaches (e.g. MSCI), which express climate costs as a percentage devaluation of enterprise value using a Merton-type credit model. Both are valid; the choice here reflects the credit risk use case rather than an asset management one.
+
 ---
 
 ## Project structure
