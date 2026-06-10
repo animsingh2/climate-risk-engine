@@ -34,7 +34,7 @@ Also supports IPCC AR6 SSPs (SSP1-2.6, SSP2-4.5, SSP5-8.5) and IEA WEO 2023 (NZE
 
 ## Project structure
 
-\`\`\`
+```
 climate-risk-engine/
 ├── src/
 │   ├── schema.py             # Domain objects and enumerations (Holding, Portfolio, ClimateRiskResult)
@@ -50,18 +50,18 @@ climate-risk-engine/
 ├── tests/                    # 54 automated tests across all modules
 ├── docs/                     # Technical methodology and plain-language summary
 └── run_dashboard.py
-\`\`\`
+```
 
 ---
 
 ## Setup
 
-\`\`\`bash
+```bash
 git clone https://github.com/animsingh2/climate-risk-engine.git
 cd climate-risk-engine
 pip install -r requirements.txt
 python run_dashboard.py
-\`\`\`
+```
 
 ---
 
